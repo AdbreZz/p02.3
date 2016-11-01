@@ -44,4 +44,22 @@ def run_tests():
 
 # Edit this code
 def encode(word):
+    
+    if word::0 == a:
+                print(word:1:-1"a")
+                
+    elif word::0 == e:
+                print(word:1:-1"e")
+                
+    elif word::0 == i:
+                print(word:1:-1"u")
+    
+    elif word::0 == o:
+                print(word:1:-1"o")
+    
+    elif word::0 == u:
+                print(word:1:-1"u")
+                
+    else:
+        print(wordword)
 
